@@ -1,4 +1,5 @@
-  "data":{
+ {
+    "candidate1": {
       "firstName":"Olivia",
       "lastName":"Johnson",
       "gender":"female",
@@ -13,3 +14,5 @@
       "feedback":"Lorem ipsum",
       "solution":"Lorem ipsum"
    }
+ }
+
