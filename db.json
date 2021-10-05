@@ -1,18 +1,15 @@
- {
-    "candidate1": {
-      "firstName":"Olivia",
-      "lastName":"Johnson",
-      "gender":"female",
-      "dateOfBirth":"24.02.1989",
-      "region":"Minsk",
-      "photo":"",
-      "interiewDate":"24.02.2000",
-      "positionHild":"web developer",
-      "skills":"[js, reactjs, html, css]",
-      "workExperience":"1",
-      "foreignLanguagesAndLevel":"{en: b1, pl: a2}",
-      "feedback":"Lorem ipsum",
-      "solution":"Lorem ipsum"
-   }
- }
-
+{
+   "firstName":"Olivia",
+   "lastName":"Johnson",
+   "gender":"female",
+   "photo":"",
+   "region":"Brest",
+   "dateInterview":"2021-10-13T18:09:57.401Z",
+   "skills":[
+      "js",
+      "markdown",
+      "github"
+   ],
+   "workExperienceYears":25,
+   "workExperienceMonth":2,
+   "comment":"sample comment"
