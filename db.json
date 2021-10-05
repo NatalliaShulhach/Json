@@ -1,4 +1,4 @@
-{
+{"candidate":{
    "firstName":"Olivia",
    "lastName":"Johnson",
    "gender":"female",
@@ -13,4 +13,5 @@
    "workExperienceYears":25,
    "workExperienceMonth":2,
    "comment":"sample comment"
+}
 }
