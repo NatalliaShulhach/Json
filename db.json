@@ -1,0 +1,14 @@
+  {"firstName": "Olivia",
+  "lastName": "Johnson",
+  "gender": "female",
+  "dateOfBirth": "24.02.1989",
+  "region": "Minsk",
+  "photo": "",
+  "interiewDate": "24.02.2000",
+  "positionHild": "web developer",
+  "skills": "[js, reactjs, html, css]",
+  "workExperience": "1",
+  "foreignLanguagesAndLevel": "{en: b1, pl: a2}",
+  "feedback": "Lorem ipsum",
+  "solution": "Lorem ipsum"
+  }
